@@ -14,3 +14,7 @@ var segundoapellido = 'Juan' , segundonombre = 'Matias', edad = 28;
 
 console.log ('Hola' + ' ' + nombre + ' ' + apellido + ' ' + 'Bienvenido al curso')
 console.log ('Tengo' + ' ' + edad + ' ' + 'de edad')
+
+// Si quieres que una variable no cambie su valor, se coloca como constante
+
+const MAYORIA_DE_EDAD = 18

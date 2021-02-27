@@ -1,4 +1,4 @@
-console.log ('Hola mundo JS'); // Como hablarle a la consola //
+console.log ('NUMEROS'); 
 
 var edad = 27, tiempo = 30
 

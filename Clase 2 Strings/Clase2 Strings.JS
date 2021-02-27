@@ -1,4 +1,4 @@
-console.log ('STRINGS'); // Como hablarle a la consola //
+console.log ('STRINGS'); 
 
 var nombre  = 'Jeikel' , apellido = 'Sanchez' , edad = 28
 

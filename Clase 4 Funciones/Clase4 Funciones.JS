@@ -1,10 +1,10 @@
-console.log ('FUNCIONES'); // Como hablarle a la consola //
+console.log ('FUNCIONES'); 
 
 var nombre = 'gabriel' , edad = 28,a,b
 
 
 function imprimiredad(a, b) {
-    console.log (`${a} tiene ${b} de edad`)
+    console.log (`${a} tiene ${b} de edad`) //Sirven para hacer formular o funciones y reutilizarlas
 }
 
 function calcularedad() {

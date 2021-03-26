@@ -58,3 +58,4 @@ var cantidadtotaldelibros = personas.reduce(reducer, 0)  //Se coloca el nombre d
 
 console.log (`La cantidad total de libros es ${cantidadtotaldelibros}`)
 
+
